@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.nav-link
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding:20px 30px;
+    size:12px;
+}
+
+
+.nav-link:hover 
+{
+    border-top: 1px red solid;  
+}
+
+.topo
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding:50px 0px;
+}
+
+.topo_s
+{
+    font-size:30px;
+    font-weight:bold;
+}
+
+.subtitulo
+{
+    font-size:20px;
+}
+
+.venda
+{
+    border-bottom:1px solid #efefef;
+    border-top:1px solid #efefef;
+    padding:10px 0px;
+   
+}
+
+.banner-meio
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin:80px 0px 30px 0px;
+    background: #fffefe;
+}
+
+#titulo 
+{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 90px;
+    color: rgb(155, 155, 155);
+}
+
+.campanha
+{
+    background:#000;
+    height:300px;
+}
+
+.retangulo
+{
+    border: 1px solid #fff;
+    padding:50px;
+    height:90%;
+    width: 100%;
+}
+
+footer
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+    background: #f3f3f3;
+    margin: 60px 0px;
+    margin-bottom:0px;
+    height:auto;
+
+}
+
+.lista1 h4
+{
+    font-size: 15px;
+    font-weight:bold;
+}
+
+.lista1 h5
+{
+    font-size: 15px;
+}
+
